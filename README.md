@@ -9,6 +9,7 @@ intended to provide practice for beginners interested in stock markets
 
 <img width="674" alt="login page" src="https://user-images.githubusercontent.com/32957204/103771208-91808e00-5027-11eb-9307-fae16a554bdd.png">
 
+<img width="674" alt="signup" src="https://user-images.githubusercontent.com/32957204/103771214-93e2e800-5027-11eb-9f89-ae8b0bbe99f4.png">
 ## Authors
 
 * **Subhan Hagverdiyev** 
